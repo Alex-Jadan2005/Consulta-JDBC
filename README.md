@@ -121,9 +121,4 @@ object MySQLConnection {
 }
 ```
 
-### Referencias:
-
-- [Documentación Oficial de JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
-- [Slick Framework](https://scala-slick.org/)
-- [Doobie Library](https://tpolecat.github.io/doobie/)
 
